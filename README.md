@@ -3,7 +3,7 @@ Personal Digital Copyright Depository for IP protection and time-stamping.
 
 **Owner:** Maris Dreshmanis (Māris Drešmanis)  
 **ORCID:** https://orcid.org/0009-0003-8151-4088  
-**ISNI:** 0000 0004 9280 9121  
+**ISNI:*** https://isni.org/isni/0000000492809121 
 **Website:** https://marisdreshmanis.com  
 **Reincarnatiopedia:** https://reincarnatiopedia.com  
 
